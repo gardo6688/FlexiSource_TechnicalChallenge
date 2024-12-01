@@ -1,0 +1,11 @@
+/Users/christianmarxdelosreyes/FlexiSource_TechnicalChallenge/RouteCalculator/obj/Debug/net8.0/RouteCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christianmarxdelosreyes/FlexiSource_TechnicalChallenge/RouteCalculator/obj/Debug/net8.0/RouteCalculator.AssemblyInfoInputs.cache
+/Users/christianmarxdelosreyes/FlexiSource_TechnicalChallenge/RouteCalculator/obj/Debug/net8.0/RouteCalculator.AssemblyInfo.cs
+/Users/christianmarxdelosreyes/FlexiSource_TechnicalChallenge/RouteCalculator/obj/Debug/net8.0/RouteCalculator.csproj.CoreCompileInputs.cache
+/Users/christianmarxdelosreyes/FlexiSource_TechnicalChallenge/RouteCalculator/bin/Debug/net8.0/RouteCalculator.deps.json
+/Users/christianmarxdelosreyes/FlexiSource_TechnicalChallenge/RouteCalculator/bin/Debug/net8.0/RouteCalculator.dll
+/Users/christianmarxdelosreyes/FlexiSource_TechnicalChallenge/RouteCalculator/bin/Debug/net8.0/RouteCalculator.pdb
+/Users/christianmarxdelosreyes/FlexiSource_TechnicalChallenge/RouteCalculator/obj/Debug/net8.0/RouteCalculator.dll
+/Users/christianmarxdelosreyes/FlexiSource_TechnicalChallenge/RouteCalculator/obj/Debug/net8.0/refint/RouteCalculator.dll
+/Users/christianmarxdelosreyes/FlexiSource_TechnicalChallenge/RouteCalculator/obj/Debug/net8.0/RouteCalculator.pdb
+/Users/christianmarxdelosreyes/FlexiSource_TechnicalChallenge/RouteCalculator/obj/Debug/net8.0/ref/RouteCalculator.dll
